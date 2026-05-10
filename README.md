@@ -36,16 +36,7 @@ RAG Pipeline
 pip install -r requirements.txt
 ```
 
-### 2. Set your API key
-
-Option A — environment variable:
-```bash
-export ANTHROPIC_API_KEY=sk-ant-...
-```
-
-Option B — enter it in the sidebar when you launch.
-
-### 3. Run
+### 2. Run
 
 ```bash
 streamlit run app.py
